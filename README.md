@@ -1,2 +1,2 @@
 # SolidEdge
- Solid Edge-related projects
+ First repository for Solid Edge related projects
